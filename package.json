@@ -40,7 +40,7 @@
   "description": "An Ionic project",
   "cordova": {
     "plugins": {
-      "cordova-sqlite-evcore-extbuild-free": {}
+      "cordova-sqlite-storage": {}
     }
   }
 }
